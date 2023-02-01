@@ -1,6 +1,5 @@
-package ru.shikhov.task3;
+package ru.shikhov.lesson1.task3;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Task3 {

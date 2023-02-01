@@ -1,4 +1,4 @@
-package ru.shikhov.task1;
+package ru.shikhov.lesson1.task1;
 
 public class Person {
     private String firstName;

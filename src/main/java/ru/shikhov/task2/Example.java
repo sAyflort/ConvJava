@@ -1,3 +1,4 @@
+/*
 package ru.shikhov.task2;
 
 public class Example {
@@ -63,3 +64,4 @@ class Lorry extends Car,
     }
     //Не хватает переопределения абстрактного метода Car.open()
 }
+*/
